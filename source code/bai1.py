@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'D:\tdlt-uel-ptb2\source code\bai1.ui'
+# Form implementation generated from reading ui file 'D:\uel-tdlt-ptb2\projectdiemcong\source code\bai1.ui'
 #
 # Created by: PyQt6 UI code generator 6.7.1
 #
@@ -39,7 +39,7 @@ class Ui_MainWindow(object):
         font.setWeight(75)
         self.pushButtoncalc.setFont(font)
         icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap("D:\\tdlt-uel-ptb2\\source code\\../../Chuong7/PhuongTrinhBac1/images/9044159_continue_icon.png"), QtGui.QIcon.Mode.Normal, QtGui.QIcon.State.Off)
+        icon.addPixmap(QtGui.QPixmap("D:\\uel-tdlt-ptb2\\projectdiemcong\\source code\\../../Chuong7/PhuongTrinhBac1/images/9044159_continue_icon.png"), QtGui.QIcon.Mode.Normal, QtGui.QIcon.State.Off)
         self.pushButtoncalc.setIcon(icon)
         self.pushButtoncalc.setIconSize(QtCore.QSize(40, 40))
         self.pushButtoncalc.setObjectName("pushButtoncalc")
